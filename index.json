@@ -1,0 +1,11 @@
+{
+  "org": "networkx",
+  "repo": "nx-parallel",
+  "versions": [
+    {
+      "commit": "cbddbd0fcdaacf35d94a8afd82a2afc38f994847",
+      "tag": "",
+      "parsed_at": "2026-10-21T03:29:08.269278+00:00"
+    }
+  ]
+}
